@@ -1,14 +1,4 @@
-/**
-* Template Name: iPortfolio
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -48,6 +38,11 @@ h6 {
   height: 40px;
   border-radius: 50px;
   transition: all 0.4s;
+}
+
+.img-portfolio {
+  height: 250px;
+  width: 100%;
 }
 
 .back-to-top i {
